@@ -2,15 +2,11 @@
 
 ## Description
 
-## Demo
-
-## Requirement
+convert program for https://github.com/tinygo-org/tinyfont/issues/14
 
 ## Usage
 
-## Installation
-
-## Build
+go build && ./tinyfont-conv2constfont
 
 ### Environment
 
