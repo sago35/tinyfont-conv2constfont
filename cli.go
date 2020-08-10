@@ -39,6 +39,10 @@ func (c *cli) Run(args []string) error {
 
 	switch k {
 	default:
+		err := conv2constfont()
+		if err != nil {
+			return err
+		}
 	}
 
 	return nil
